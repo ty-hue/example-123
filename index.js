@@ -1,1 +1,3 @@
-console.log('第一次发布npm包');
+module.exports = function eat(){
+  console.log('我正在吃东西'); 
+}

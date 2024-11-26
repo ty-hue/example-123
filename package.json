@@ -1,0 +1,19 @@
+{
+  "name": "example-123",
+  "version": "1.0.0",
+  "description": "study how publish npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ty-hue/example-123.git"
+  },
+  "author": "peaceyang6 <1553604051@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ty-hue/example-123/issues"
+  },
+  "homepage": "https://github.com/ty-hue/example-123#readme"
+}
